@@ -161,9 +161,15 @@ p.copyright {
   margin: 15px 0 0;
 }
 
-#section1, #section2, #section3, #title{
+#section1, #section2, #title{
   background-color: black;
   color: white;
+}
+
+#section3{
+  background-color: black;
+  color: white;
+  font-size: 130%;
 }
 
 /* #section2{
