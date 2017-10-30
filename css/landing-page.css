@@ -161,15 +161,9 @@ p.copyright {
   margin: 15px 0 0;
 }
 
-#section1, #section2, #title{
+#section1, #section2, #section3, #title{
   background-color: black;
   color: white;
-}
-
-#section3{
-  background-color: black;
-  color: white;
-  font-size: 130%;
 }
 
 /* #section2{
@@ -184,6 +178,10 @@ p.copyright {
  
 #footer{
   background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
 
 #nav{
@@ -220,3 +218,4 @@ p.copyright {
 .tech{
   color: white;
 }
+
